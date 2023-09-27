@@ -1,0 +1,73 @@
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\appsettings.Development.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\appsettings.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.exe
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.deps.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.runtimeconfig.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.pdb
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.csproj.AssemblyReference.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.AssemblyInfoInputs.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.AssemblyInfo.cs
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.csproj.CoreCompileInputs.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.MvcApplicationPartsAssemblyInfo.cs
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.MvcApplicationPartsAssemblyInfo.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.Revisao.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Revisao.API.props
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Revisao.API.props
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Revisao.API.props
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\scopedcss\bundle\Revisao.API.styles.css
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.csproj.CopyComplete
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\refint\Revisao.API.dll
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.pdb
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.genruntimeconfig.cache
+D:\faculdade\2023_2\desenvolvimento web\revisao\Revisao\Revisao.API\obj\Debug\net6.0\ref\Revisao.API.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.csproj.AssemblyReference.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.AssemblyInfoInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.AssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.csproj.CoreCompileInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\refint\Revisao.API.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.exe
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.deps.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.runtimeconfig.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.API.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.Application.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.Data.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.Application.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.Data.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.Revisao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Revisao.API.props
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Revisao.API.props
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Revisao.API.props
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\scopedcss\bundle\Revisao.API.styles.css
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.csproj.CopyComplete
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\Revisao.API.genruntimeconfig.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\ProvaDia2\Revisao\Revisao.API\obj\Debug\net6.0\ref\Revisao.API.dll
