@@ -30,7 +30,7 @@ namespace Revisao.Application.ViewModels
         public int Idade { get; set; }
 
         [Required(ErrorMessage = "A Carta é obrigatória.")]
-        [MaxLength(500, ErrorMessage = "A Carte tem que ter no máximo 500 caractéres.")]
+        [MaxLength(500, ErrorMessage = "A Carta tem que ter no máximo 500 caractéres.")]
         public string Texto { get; set; }
         public bool Ativo { get; set; }
     }
