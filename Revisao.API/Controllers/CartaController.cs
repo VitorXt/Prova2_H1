@@ -15,6 +15,8 @@ namespace Revisao.API.Controllers
             _cartaService = cartaService;
         }
 
+        #region - POST
+
         [HttpPost]
         public IActionResult Post(NovoRegistraCartaViewModel registraCartaViewModel)
         {
@@ -22,11 +24,16 @@ namespace Revisao.API.Controllers
             return Ok("Carta registrada com sucesso");
         }
 
+        #endregion
+
+        #region - GET
+
         [HttpGet]
         public IActionResult Get()
         {
             return Ok(_cartaService.ObterTodos());
-
         }
+
+        #endregion
     }
 }
